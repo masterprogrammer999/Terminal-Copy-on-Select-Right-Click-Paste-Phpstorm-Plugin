@@ -10,7 +10,7 @@ A JetBrains IDE plugin that gives the built-in terminal the mouse behaviour of m
 
 You can turn each behaviour on or off under **Settings | Tools | Terminal Copy on Select & Right-Click Paste**.
 
-> **This project is AI-generated.** The code, build setup, icon and this README were written by Claude (an AI model by Anthropic) at the request of the maintainer, who tested and published it. Please report bugs through GitHub issues.
+> **This project is AI-assisted.** It was written with the help of Claude (an AI model by Anthropic), then tested and published by the maintainer. Please report bugs through [GitHub issues](https://github.com/masterprogrammer999/Terminal-Copy-on-Select-Right-Click-Paste-Phpstorm-Plugin/issues).
 
 ## Compatibility
 
@@ -25,7 +25,7 @@ The plugin uses only the stable platform API. It relies on the terminal's *Paste
 
 From the JetBrains Marketplace: **Settings | Plugins | Marketplace**, search for *Terminal Copy on Select & Right-Click Paste*.
 
-From a zip file: download it from the Releases page (or build it yourself, see below), then go to **Settings | Plugins | ⚙ | Install Plugin from Disk…** and pick the zip.
+From a zip file: download it from the [Releases page](https://github.com/masterprogrammer999/Terminal-Copy-on-Select-Right-Click-Paste-Phpstorm-Plugin/releases) (or build it yourself, see below), then go to **Settings | Plugins | ⚙ | Install Plugin from Disk…** and pick the zip.
 
 ## Building from source
 

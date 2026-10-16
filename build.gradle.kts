@@ -36,6 +36,7 @@ intellijPlatform {
             <p>Each behaviour can be turned off under <i>Settings | Tools | Terminal Copy on Select &amp; Right-Click Paste</i>.
             Works in any JetBrains IDE with the Terminal plugin, 2025.2 or newer. The Classic terminal is not affected.</p>
             <p>This plugin was written with AI assistance (Claude by Anthropic).</p>
+            <p>Source code and bug reports: <a href="https://github.com/masterprogrammer999/Terminal-Copy-on-Select-Right-Click-Paste-Phpstorm-Plugin">GitHub</a>.</p>
         """.trimIndent()
         changeNotes = """
             <p>1.0.0: first public release.</p>
