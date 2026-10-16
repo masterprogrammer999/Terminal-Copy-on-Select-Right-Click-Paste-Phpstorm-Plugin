@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>io.github.masterprogrammer999.terminalmousepaste</id>
     <name>Terminal Copy on Select &amp; Right-Click Paste</name>
-    <vendor url="https://github.com/masterprogrammer999">Edward</vendor>
+    <vendor url="https://github.com/masterprogrammer999">Edward Wahnström</vendor>
 
     <depends>com.intellij.modules.platform</depends>
     <depends>org.jetbrains.plugins.terminal</depends>
