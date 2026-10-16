@@ -1,0 +1,17 @@
+<idea-plugin>
+    <id>io.github.masterprogrammer999.terminalmousepaste</id>
+    <name>Terminal Copy on Select &amp; Right-Click Paste</name>
+    <vendor url="https://github.com/masterprogrammer999">Edward</vendor>
+
+    <depends>com.intellij.modules.platform</depends>
+    <depends>org.jetbrains.plugins.terminal</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <postStartupActivity implementation="io.github.masterprogrammer999.terminalmousepaste.TerminalMouseStartup"/>
+        <applicationConfigurable
+            id="TerminalMousePaste.Settings"
+            displayName="Terminal Copy on Select &amp; Right-Click Paste"
+            parentId="tools"
+            instance="io.github.masterprogrammer999.terminalmousepaste.TerminalMouseConfigurable"/>
+    </extensions>
+</idea-plugin>
